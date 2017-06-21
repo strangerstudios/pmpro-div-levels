@@ -2,8 +2,8 @@
 Contributors: strangerstudios
 Tags: paid memberships pro, pmpro, memberships, ecommerce
 Requires at least: 3.0
-Tested up to: 4.1.1
-Stable tag: .2
+Tested up to: 4.8
+Stable tag: .3
 
 The default PMPro Membership Levels page displays in a table layout. This plugin changes your levels page layout to use a DIV for each level. If you are using the PMPro Level Cost Text add on, it will use that text for the generated price sentence. Alternately, it will just use the automatically generated level cost text PMPro provides.
 
@@ -19,6 +19,9 @@ Display your Membership Levels in a DIV layout, allowing you to add custom CSS t
 1. That's it. No settings.
 
 == Changelog == 
+= .3 =
+* Now checking which levels to display instead of displaying all levels.
+
 = .2 =
 * Added meta links to plugins page.
 * Fixed _e() use in some cases.

@@ -3,7 +3,7 @@
 Plugin Name: Paid Memberships Pro - Levels as DIV Layout Add On
 Plugin URI: http://www.paidmembershipspro.com/wp/pmpro-divb-levels/
 Description: Display your Membership Levels Page in a DIV Layout for Paid Memberships Pro
-Version: .2
+Version: .3
 Author: Stranger Studios
 Author URI: http://www.strangerstudios.com
 */
