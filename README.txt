@@ -19,7 +19,7 @@ Display your Membership Levels in a DIV layout, allowing you to add custom CSS t
 1. That's it. No settings.
 
 == Changelog ==
-= .3 =
+= .3 - 2019-08-07 =
 * BUG FIX/ENHANCEMENT: Now checking which levels to display instead of displaying all levels.
 * BUG FIX/ENHANCEMENT: Now respecting the levels order set by the Settings > Membership Levels admin page.
 
