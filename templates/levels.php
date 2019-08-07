@@ -12,6 +12,7 @@ if($pmpro_msg)
 	
 	<?php	
 		$count = 0;
+		$pmpro_levels = apply_filters("pmpro_levels_array", $pmpro_levels);
 		foreach($pmpro_levels as $level)
 		{
 		  if(isset($current_user->membership_level->ID))
