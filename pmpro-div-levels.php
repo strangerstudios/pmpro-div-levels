@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Paid Memberships Pro - Levels as DIV Layout Add On
-Plugin URI: http://www.paidmembershipspro.com/wp/pmpro-div-levels/
+Plugin URI: https://www.paidmembershipspro.com/add-ons/levels-page-div-layout/
 Description: Display your Membership Levels Page in a DIV Layout for Paid Memberships Pro
 Version: .3
-Author: Stranger Studios
-Author URI: http://www.strangerstudios.com
+Author: Paid Memberships Pro
+Author URI: https://www.paidmembershipspro.com
 */
 
 //use our levels template
@@ -26,7 +26,7 @@ function pmprodiv_plugin_row_meta($links, $file) {
 	if(strpos($file, 'pmpro-div-levels.php') !== false)
 	{
 		$new_links = array(
-			'<a href="' . esc_url('http://www.paidmembershipspro.com/add-ons/plugins-on-github/levels-page-div-layout/')  . '" title="' . esc_attr( __( 'View Documentation', 'pmpro' ) ) . '">' . __( 'Docs', 'pmpro' ) . '</a>',
+			'<a href="' . esc_url('https://www.paidmembershipspro.com/add-ons/levels-page-div-layout/')  . '" title="' . esc_attr( __( 'View Documentation', 'pmpro' ) ) . '">' . __( 'Docs', 'pmpro' ) . '</a>',
 			'<a href="' . esc_url('http://paidmembershipspro.com/support/') . '" title="' . esc_attr( __( 'Visit Customer Support Forum', 'pmpro' ) ) . '">' . __( 'Support', 'pmpro' ) . '</a>',
 		);
 		$links = array_merge($links, $new_links);
