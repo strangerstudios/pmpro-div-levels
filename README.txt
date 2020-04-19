@@ -5,6 +5,8 @@ Requires at least: 3.0
 Tested up to: 5.2.2
 Stable tag: .3
 
+IMPORTANT: This plugin has been deprecated. Please use the [Advanced Levels Page Shortcode Add On](https://www.paidmembershipspro.com/add-ons/pmpro-advanced-levels-shortcode/)
+
 The default PMPro Membership Levels page displays in a table layout. This plugin changes your levels page layout to use a DIV for each level. If you are using the PMPro Level Cost Text add on, it will use that text for the generated price sentence. Alternately, it will just use the automatically generated level cost text PMPro provides.
 
 == Description ==
